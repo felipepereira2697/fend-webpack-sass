@@ -1,0 +1,10 @@
+footer {
+    background-color: antiquewhite;
+    a {
+        color: red;
+
+        &:hover {
+            color: yellow;
+        }
+    }
+}
